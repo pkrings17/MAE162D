@@ -1,0 +1,1 @@
+The data objects are the data taken from EXCEL and made into MATLAB objects. The prefix seg_ refers to Segway data, p_ refers to paperbot data. The preprefix c_ refers to analytical data. Further characters in the filenames refer to team member case (e.g. PK, NB, etc.) and case number (e.g. seg_case_3_zl refers to the Webots Segway data from ZL case 3).
